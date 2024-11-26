@@ -83,7 +83,6 @@ def main():
     cnt = get_content(fname)
     print_square(cnt)
 
-if __name__ == "__main__":
 
-    main()
+main()
 
